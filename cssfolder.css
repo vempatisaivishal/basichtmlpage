@@ -1,0 +1,15 @@
+.main {
+    background-color: cyan;
+    color: black;
+}
+
+.one {
+    border-style: solid;
+    border-color: red;
+    border-width: 6px;
+    color: black;
+}
+
+.two {
+    color: black;
+}
